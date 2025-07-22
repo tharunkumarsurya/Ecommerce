@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.home{
+      
+        background: url("https://tse4.mm.bing.net/th?id=OIP.6KlGFf9baJeZgamJZ8fUXQHaEo&pid=Api&P=0&h=180");
+        background-repeat: no-repeat;
+        background-size: 100%;
+       
+        background-attachment: fixed;
+ }
+    
